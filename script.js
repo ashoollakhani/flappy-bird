@@ -12,7 +12,7 @@ const birdImg = new Image();
 birdImg.src = 'images/bird.png';
 
 const pipeTopImg = new Image();
-pipeTopImg.src = 'images/top-pipe.jpg';
+pipeTopImg.src = 'images/top-pipe.png';
 
 const pipeBottomImg = new Image();
 pipeBottomImg.src = 'images/bottom-pipe.jpg';

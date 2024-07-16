@@ -3,6 +3,7 @@
 Flappy Bird is a simple yet addictive game inspired by the classic Flappy Bird. It's built using HTML, CSS, and JavaScript. Get ready to flap your wings and navigate through endless pipes! 🚀
 
 <img src = "https://github.com/ashoollakhani/flappy-bird/blob/main/images/flappy-gif.gif" width = 100% height = 100%>
+
 ### 🎮 Play the Game
 
 1. **Start the game**:
